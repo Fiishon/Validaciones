@@ -1,5 +1,6 @@
+Librería de Validaciones
 
-
+Descripción
 
 Esta es una pequeña librería en JavaScript diseñada para validar campos de un formulario de inicio de sesión de forma visual e intuitiva. Se enfoca en tres campos principales:
 
