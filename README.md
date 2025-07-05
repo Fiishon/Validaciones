@@ -1,5 +1,7 @@
 Librería de Validaciones
 
+La libreria de validaciones, resuleve problemas que algunos formularios tradicionales deben de tener, ya sea para validar correos, nombres, contraseñas, entre otros elementos del formulario, es por eso, que hemos desarrollado una libreria de validaciones para poder ahorrar tiempo al momento de crear esas validaciones, esto, no ayuda oprimizar lineas de codigo, llamando los métodos, haciendo asi, mas fácil el trabajo.
+
 Descripción
 
 Esta es una pequeña librería en JavaScript diseñada para validar campos de un formulario de inicio de sesión de forma visual e intuitiva. Se enfoca en tres campos principales:
