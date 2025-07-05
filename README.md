@@ -28,3 +28,7 @@ Funcionalidades:
   Cada campo muestra un mensaje de error específico debajo si la validación falla.
   
   También muestra una alerta general si uno o más campos están incorrectos.
+
+
+Instalación
+Descargar el archivo comprimido .zip
