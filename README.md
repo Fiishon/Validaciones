@@ -45,7 +45,13 @@ El archivo lo agregamos al proyecto en el cual lo implementaremos.
 ![image](https://github.com/user-attachments/assets/1377231c-3a4c-48c1-975b-60cdb6fbc9a8)
 
 
-Lo incluimos a nuestro proyecto con la linea   <script src="validaciones.js"></script>
+Lo incluimos a nuestro proyecto; 
+        
+        <script src="validaciones.js"></script>
+
+
+Una vez incluido en el proyecto podemos hacer uso de las funciones de validación en el formulario que deseemos  
+
 
 
 Ejemplo de implementación en el proyecto
