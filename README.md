@@ -31,4 +31,7 @@ Funcionalidades:
 
 
 Instalación
+
 Descargar el archivo comprimido .zip
+![image](https://github.com/user-attachments/assets/7ed7f40e-12fb-4f30-8bbf-b6c520dfd9f4)
+
