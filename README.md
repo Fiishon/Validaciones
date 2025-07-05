@@ -215,3 +215,5 @@ Campos validados correctamente.
 Aquí puedes ver un video del funcionamiento de esta librería.
 Video: 
 https://drive.google.com/file/d/1EIx-LRhc-6KW1upOLT4mNvGd3iEhRNAh/view?usp=sharing
+
+Hecho por: Misael Cruz López & Cristhian Eduardo Bautista Gómez.
