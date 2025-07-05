@@ -189,3 +189,27 @@ CSS
     .oculto {
       display: none;
     }
+
+
+Formulario para realizar las validaciones.
+
+
+![image](https://github.com/user-attachments/assets/8dfe4c54-ec32-41b9-9458-e493cadaaa47)
+
+
+
+Campos no validados
+
+
+![image](https://github.com/user-attachments/assets/c28db258-940f-4d6c-9c53-24c563bee3dc)
+
+
+Campos validados correctamente.
+
+
+![Captura de pantalla 2025-07-04 232540](https://github.com/user-attachments/assets/83fe42ff-92c0-447a-a76e-2dcca539ea3a)
+
+
+Aquí puedes ver un video del funcionamiento de esta librería.
+Video: 
+https://drive.google.com/file/d/1EIx-LRhc-6KW1upOLT4mNvGd3iEhRNAh/view?usp=sharing
